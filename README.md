@@ -1,1 +1,1 @@
-Este fue mi primer proyecto con Python
+Proyectos realizados en mi formación como Data Analyst en TripleTen.
